@@ -1,0 +1,8 @@
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\bin\Debug\polymorphism.exe.config
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+C:\Users\QQ136\source\repos\polymorphism\polymorphism\obj\Debug\polymorphism.pdb
